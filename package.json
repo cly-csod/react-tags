@@ -1,7 +1,7 @@
 {
-  "name": "react-tag-input",
-  "version": "4.9.0",
-  "description": "React tags is a fantastically simple tagging component for your React projects",
+  "name": "react-tag-input-16.4.2",
+  "version": "4.9.1",
+  "description": "Set react to 16.4.2 to fix vulnerabilities",
   "main": "dist-modules/ReactTags.js",
   "scripts": {
     "test": "jest --notify --coverage",
@@ -32,10 +32,10 @@
   "dependencies": {
     "lodash": "4.17.5",
     "prop-types": "15.6.1",
-    "react": "16.2.0",
+    "react": "16.4.2",
     "react-dnd": "2.5.4",
     "react-dnd-html5-backend": "2.5.4",
-    "react-dom": "16.2.0"
+    "react-dom": "16.4.2"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
